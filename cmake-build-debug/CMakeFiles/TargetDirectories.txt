@@ -1,0 +1,3 @@
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/3n+1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/3n+1/cmake-build-debug/CMakeFiles/3n_1.dir
+/home/lica-pc/CLionProjects/ALGORITMOS/UVa/3n+1/cmake-build-debug/CMakeFiles/edit_cache.dir
